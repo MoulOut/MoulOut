@@ -1,7 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
-### Hi, my name is Matheus Moulin!
-
-##### I'm a computer science student and back-end developer
+### Olá, me chamo Matheus Moulin!
 
  <div>
    <a href="https://github.com/MoulOut">
